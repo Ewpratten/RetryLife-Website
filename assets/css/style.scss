@@ -20,5 +20,9 @@ body{
 .page-header {
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(https://www.devrant.io/static/devrant/img/landing/landing-banner1.png);
+    background: linear-gradient(-70deg, #5d6ca2 30%, rgba(0, 0, 0, 0) 30%), rgba(62, 84, 167, 0.88)
+}
+
+h2 a{
+  color:#8cb5ec;
 }
