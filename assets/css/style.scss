@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+
+body{
+  font-family: "Comfortaa", sans-serif;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color:#2F2F32;
+}
+
+.site-footer-credits {
+  display:none;
+}
+
+.page-header {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://www.devrant.io/static/devrant/img/landing/landing-banner1.png);
+}
