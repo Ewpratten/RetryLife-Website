@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Who Am I?
+I am a teenager who loves to write code and make stuff. I am also a programming captain on FRC team [#5024](https://github.com/frc5024)
 
-You can use the [editor on GitHub](https://github.com/Ewpratten/RetryLife-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# My Projects
+This is a shortened list of my projects. Not everything is here. If you want to see the rest, check out my [GitHub profile](https://github.com/ewpratten). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - [dr](https://dr.retrylife.ca) ([GitHub](http://github.com/ewpratten/dr))
+ - [RioCV](http://github.com/ewpratten/riocv-pi)
+ - [barebonesFRC](http://github.com/ewpratten/barebonesFRC)
+ - [devCredits](https://github.com/ewpratten/devcredits)
+ - [geoIP](http://github.com/ewpratten/geoip) 
+ - [lynkz-dart](http://github.com/ewpratten/lynkz-dart)
+ - [201718main](http://github.com/raiderrobotics5024/201718main)
+ 
+# My Music
+All my music is avalible [HERE](https://retrylife.bandcamp.com)
+Note: I have taken a break from publishing music
 
-### Markdown
+# Mine Some Crypto For Me
+If you feel like volunteering some of your computer's processing power, you can donate to me and my projects without paying any money!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Just click: [HERE](https://authedmine.com/media/miner.html?key=FVfuzU93Xt5bS569Us0MA6caoNqElexR)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ewpratten/RetryLife-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# My Social Stuff
+ - [Twitch](https://twitch.tv/retrylife)
+ - [Github](https://github.com/ewpratten)
+ - [GitLab](https://gitlab.com/ewpratten)
+ - [Keybase](https://keybase.io/ewpratten)
